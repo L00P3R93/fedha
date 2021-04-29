@@ -361,7 +361,7 @@
                         <div class="media-cta-container  media-cta-container--padding-small">
                             <div class="media-cta-container__content">
                                 <div class="media-cta-container__header-info">
-                                    <div class="block-heading-1">
+                                    <div class="block-heading-1 text-center">
                                         <h2 class="media-cta-container__title">Features &amp; Solutions</h2>
                                     </div>
                                     <p class="media-cta-container__strapline">Through technology and innovation, we deliver a secure and connected future that empowers our people, clients and communities</p>
@@ -435,7 +435,7 @@
                         <div class="media-cta-container">
                             <div class="media-cta-container__content">
                                 <div class="media-cta-container__header-info">
-                                    <div class="block-heading-1">
+                                    <div class="block-heading-1 text-center">
                                         <h2 class="media-cta-container__title">Why you should choose us?</h2>
                                     </div>
                                 </div>
