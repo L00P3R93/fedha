@@ -498,7 +498,7 @@
                         <div id="module4" class="page-anchor">module4</div>
                         <div class="sticky-anchor-navigation" v-bind:class="{'sticky-anchor-navigation--hidden': isPageAnchor}">
                             <div class="sticky-anchor-navigation__inner" v-bind:class="{'sticky-anchor-navigation__inner--sticky': isSticky}">
-                                <a href="contact-us.html" class="sticky-anchor-navigation__link" target="|Custom">
+                                <a href="#contact-section" class="sticky-anchor-navigation__link" target="|Custom">
                                     <span v-on:click="stickyLinkClick" v-bind:class="{'sticky-anchor-navigation__link-span--anchor' : isPageAnchor}">Connect with us - we can help during these extraordinary times</span>
                                 </a>
                             </div>
