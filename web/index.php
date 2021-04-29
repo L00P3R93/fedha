@@ -3,11 +3,31 @@
     <head>
         <title>Home | Fedha</title>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- Primary Meta Tags -->
+        <title>Sterling Credit Limited</title>
+        <meta name="title" content="Fedha Electronics">
+        <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt quam risus. Donec non lobortis odio. Ut sit amet magna enim. ">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://fedhaelec.herokuapp.com">
+        <meta property="og:title" content="Fedha Electronics">
+        <meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt quam risus. Donec non lobortis odio. Ut sit amet magna enim. ">
+        <meta property="og:image" content="http://fedhaelec.herokuapp.com/assets/images/android-chrome-512x512.png">
+
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://fedhaelec.herokuapp.com">
+        <meta property="twitter:title" content="Fedha Electronics">
+        <meta property="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt quam risus. Donec non lobortis odio. Ut sit amet magna enim. ">
+        <meta property="twitter:image" content="http://fedhaelec.herokuapp.com/assets/images/android-chrome-512x512.png">
+
         <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
-        <link rel="manifest" href="/site.webmanifest">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="manifest" href="./site.webmanifest">
+
         <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="assets/fonts/icomoon/style.css">
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
